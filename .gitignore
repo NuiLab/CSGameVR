@@ -2,6 +2,11 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Content/KiteDemo
+Content/Mannequin
+Content/ThirdPerson
+Content/ThirdPersonBP
+Content/Geometry
 .vscode
 .vs
 *.VC.db
