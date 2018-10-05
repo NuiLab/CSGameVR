@@ -8,10 +8,6 @@ Content/ThirdPerson
 Content/ThirdPersonBP
 Content/Geometry
 Content/WaterPlane
-Content/FirstPerson
-Content/FirstPersonBP
-Content/InfinityBladeGrassLands
-Content/SoulCave
 .vscode
 .vs
 *.VC.db
