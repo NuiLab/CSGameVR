@@ -12,7 +12,6 @@ Content/InfinityBladeGrassLands
 Content/SoulCave
 Content/StarterContent
 Content/Megascans
-*_BuiltData.uasset
 .vscode
 .vs
 *.VC.db
@@ -23,6 +22,3 @@ Content/Megascans
 *.suo
 *.xcodeproj
 *.xcworkspace
-Plugins/*/Intermediate/*
-Plugins/*/Binaries/*
-Build/*
