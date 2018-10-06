@@ -22,3 +22,6 @@ Content/StarterContent
 *.suo
 *.xcodeproj
 *.xcworkspace
+Plugins/*/Intermediate/*
+Plugins/*/Binaries/*
+Build/*
